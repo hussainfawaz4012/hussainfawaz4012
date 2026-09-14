@@ -1,5 +1,11 @@
 # 💫 About Me:
-Data Analyst exploring patterns, building predictive models, and turning data into decisions through SQL, Python, and data visualization.
+👋 Hi, I'm Fawaz Hussain — a Data Analyst dedicated to transforming raw, complex datasets into clear, actionable business strategies.
+
+📊 Core Expertise: Exploratory Data Analysis, Predictive Modeling, and Interactive Visualization.
+
+🛠️ Toolkit: Python, SQL Server, MySQL, Power BI, NumPy, and Pandas.
+
+🎯 Currently focused on: Building end-to-end data pipelines and forecasting models that drive better decision-making.
 
 
 ## 🌐 Socials:
